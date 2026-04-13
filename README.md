@@ -102,9 +102,9 @@ No-code dataset analysis with built-in ML workflows.
 
 <div align="center">
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yahiaashry&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
+![GitHub Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=Yahiaashry&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiaashry&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yahiaashry&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800)
 
 </div>
 
