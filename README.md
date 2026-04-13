@@ -102,9 +102,9 @@ No-code dataset analysis with built-in ML workflows.
 
 <div align="center">
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yahiaashry&show_icons=true&theme=dark)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Yahiaashry&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiaashry&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahiaashry&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800)
 
 </div>
 
@@ -116,13 +116,5 @@ No-code dataset analysis with built-in ML workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-ashry-8b4472313/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yahia.ashryy@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-**Built with Next.js, TypeScript, and focus on clean product thinking.**
 
 </div>
