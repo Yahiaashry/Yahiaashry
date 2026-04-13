@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Yahia Ashry! 👋
 
-<!--
-**Yahiaashry/Yahiaashry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+I’m a software engineer focused on building clean, practical, and user-friendly digital products.
+I work across frontend, backend, and data-focused projects, with a strong interest in full-stack development, automation, and problem-solving.
+I care about writing maintainable code, shipping polished interfaces, and building software that delivers real value.
 
-Here are some ideas to get you started:
+🛠️ Core Tech Stack
+Languages: TypeScript, JavaScript, Python, SQL, Java
+Frontend: React, Next.js, Tailwind CSS, Framer Motion
+Backend & Frameworks: Node.js, Express.js, Flask, Flutter, scikit-learn
+Data & ML: pandas, NumPy, Matplotlib, Seaborn
+Databases: PostgreSQL, MongoDB, Firebase, Supabase
+Tools & Platforms: Git, GitHub, Docker, Linux, VS Code, Figma, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Featured Work
+I’ve built projects in:
+
+- Web applications
+= Mobile apps
+= Python automation and monitoring tools
+= Machine learning and data-driven systems
+
+📫 My Links :
+LinkedIn: https://www.linkedin.com/in/yahia-ashry-8b4472313/
+Email: Yahia.ashryy@gmail.com
