@@ -37,43 +37,6 @@ Full-stack developer focused on clean architecture, state management, and practi
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### RecruiterPro — AI-Augmented Hiring Pipeline
-*React, Node.js, TypeScript, Supabase, Python (psycopg2), OpenAI API*
-
-- **Architecture:** Designed a service-layer abstraction connecting a React frontend with a Python/Node.js backend, utilizing Supabase and `psycopg2` for robust database initialization and environment configuration.
-- **Data Flow:** Streamlined the ingestion of unstructured resume data via the OpenAI API into a strict TypeScript schema, reducing manual entry by ~90% and efficiently managing large repository footprints across the pipeline.
-- **Trade-offs:** Opted for a managed Supabase architecture over local database initialization to eliminate directory state conflicts and speed up deployment, accepting vendor lock-in for significantly higher database reliability during concurrent recruiter sessions.
-- [View on GitHub](https://github.com/Yahiaashry/Recruiter-Pro)
-
-### EasySpend — Offline-First Budget Tracker
-*Flutter, Supabase, PostgreSQL, BLoC, SQLite*
-
-- **Architecture:** Structured as an offline-first mobile client using the BLoC pattern to strictly separate UI events from core business logic, ensuring highly deterministic unit testing for complex monthly rollover calculations.
-- **Data Flow:** Engineered a custom write-ahead log (WAL) utilizing local SQLite to queue transaction states during network partitions. Resolves merge conflicts deterministically upon reconnection via timestamped vector clocks.
-- **Trade-offs:** Migrated from a schema-less Firebase implementation to a normalized PostgreSQL schema with Row-Level Security in Supabase. Traded initial client-side flexibility for a highly structured relational model, achieving a ~40% reduction in client-side JSON payload through server-side aggregation.
-- [View Project](https://easy-spend-123.web.app/)
-
-### OS System Metrics Monitor
-*Python, Linux Internals, DevOps*
-
-- **Architecture:** Built a lightweight, dependency-free daemon in Python relying strictly on native OS interfaces.
-- **Data Flow:** Parses the `/proc` filesystem to continuously monitor CPU steal time and memory pressure, emitting threshold-based triggers to system notification pipelines.
-- **Trade-offs:** Chose manual filesystem parsing over heavy external monitoring libraries to maintain an absolute minimal memory footprint, sacrificing out-of-the-box external integrations for pure performance.
-- [View on GitHub](https://github.com/Yahiaashry/Os_System_metrics)
-
-### AlgoLab — ML Workflow Web Interface
-*Python, Flask, scikit-learn, Seaborn*
-
-- **Architecture:** Designed a Flask-based programmatic generation service that outputs dynamic visualization figures and machine learning pipeline code.
-- **Data Flow:** Ingests user-selected preprocessing parameters to dynamically compile and execute `scikit-learn` logic on structured CSV datasets.
-- **Trade-offs:** Prioritized rapid boilerplate generation and UI simplicity over granular model hyperparameter tuning, optimizing for speed-to-insight in hypothesis testing rather than deep-level model customization.
-- [View on GitHub](https://github.com/Yahiaashry/AlgoLab)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahia-ashry-8b4472313/)
